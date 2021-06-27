@@ -24,7 +24,7 @@
 
 ## `Experience` <img src="https://user-images.githubusercontent.com/27310414/88125498-b4c99500-cbcf-11ea-9766-628cdef39daa.gif" alt="twitter" width="36" height="36"/> 
 
-➔ **Power Platform Consultant** [@AltiusData](https://www.altius.co.uk/) _(Jan 2020 - Present)_
+➔ **Power Platform Consultant** [@Avanade](https://www.avanade.com/en-gb) _(Jan 2020 - Present)_
 
 Responsible for developing actionable solutions which deliver real business value to clients. I work with the customer scope building and build reports using the Power Platform.
 
