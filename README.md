@@ -1,66 +1,53 @@
-## `Hey There!` <img src="https://user-images.githubusercontent.com/27310414/88125741-37525480-cbd0-11ea-8b1d-7bb917bb8d89.gif" alt="twitter" width="36" height="36"/>
+# Hi, I'm Nathan
 
-#### I'm Nathan and I'm a Power Platform Consultant obsessed with building and designing exceptional, high-quality and actionable buisness intelligence.
+Data and AI manager at [Avanade](https://www.avanade.com/en-gb), based in London.
 
-<div>
-
-<!--- 
-
-<img src="https://user-images.githubusercontent.com/27310414/88126696-6bc71000-cbd2-11ea-8726-ff4301da3c55.png" alt="personal website" width="20" height="20"/> [mahmoud.codes](https://mahmoud.codes)
-
-<img src="https://user-images.githubusercontent.com/27310414/88126702-6c5fa680-cbd2-11ea-860f-5acacd08316c.png" alt="blog" width="20" height="20"/>  [mahmoud.codes/blog](https://mahmoud.codes/blog)
-
-<img src="https://user-images.githubusercontent.com/27310414/88126703-6cf83d00-cbd2-11ea-81a1-c632be2e9edc.png" alt="tools used" width="20" height="20"/> [mahmoud.codes/uses](https://mahmoud.codes/uses)
-
---->
-
-<img src="https://user-images.githubusercontent.com/27310414/88126694-6b2e7980-cbd2-11ea-88d5-96045329b3d6.png" alt="twitter" width="20" height="20"/> [@nathan_lee](https://twitter.com/nathan_lee)
-
-<img src="https://user-images.githubusercontent.com/27310414/88126699-6c5fa680-cbd2-11ea-94ef-0385cf08206d.png" alt="linkedin" width="20" height="20"/>  [nathanwlee1](https://www.linkedin.com/in/nathanwlee1/)
-
-</div>
+I help large organisations get their data into a state where people, and increasingly AI, can make better decisions with it. Most of the hard part isn't the technology. It's the gap between the strategy deck and what actually gets built.
 
 <br/>
 
-## `Experience` <img src="https://user-images.githubusercontent.com/27310414/88125498-b4c99500-cbcf-11ea-9766-628cdef39daa.gif" alt="twitter" width="36" height="36"/> 
+## What I do now
 
-➔ **Power Platform Consultant** [@Avanade](https://www.avanade.com/en-gb) _(Jan 2020 - Present)_
+**Manager, Intelligent Data Platform** · Avanade UK&I
 
-Responsible for developing actionable solutions which deliver real business value to clients. I work with the customer scope building and build reports using the Power Platform.
+I lead delivery and solution architecture on Microsoft data platforms for enterprise and public sector clients. The role sits somewhere between the engineering and the boardroom: designing the platform, then making the case for why it should exist.
 
-➔ **Sales Analyst** [@SercoGroup](https://www.serco.com/) _(Dec 2018 - Nov 2019)_
+What I'm thinking about at the moment:
 
-Working with Serco's business analytics team servicing the UK&E business development community with BI reporting, informing the go to market strategy. I delivered training & support to users across Serco's European offices.
+- **Platforms that are ready for AI.** Agents are only as useful as the data and semantic layer underneath them. Most organisations are further from that than they think.
+- **Agentic AI as an onboarding problem.** You wouldn't give a new starter full system access and no context on day one. Agents deserve the same thought.
+- **Decisions over dashboards.** If nobody can name the decision a report changes, it probably doesn't need building.
 
-➔ **Lead Student Ambassador** (Part-time) [@UniversityOfKent](https://www.kent.ac.uk/) _(Sep 2015 - Aug 2018)_
-
-Responsible for leading outreach activities on behalf of the university, on campus & in local schools. I delivered presentation aimed at raising aspirations amongst low attaining schools and colleges.
-
-➔ **Barista** (Part-time) [@CostaCoffee](https://www.costa.co.uk/) _(Jun 2015 - Dec 2018)_
-
-To support my studies I worked as a barista, providing the local community with their morning caffeine hit. I learnt more here than you would think.
-
-➔ **Data Analyst Intern** (Contract) [@KentCountyCouncil](https://www.kent.gov.uk/) _(Sep 2017 - Apr 2018)_
-
-Working with KCC's analytics team, I worked on a project investigating adult social care within the region. Unmasking previously hidden trends, directly leading to diversion of funding provisions.
-
-<!--- 
 <br/>
 
-## `Talks`  <img src="https://user-images.githubusercontent.com/27310414/88125684-18ec5900-cbd0-11ea-82f0-709031e56a03.gif" alt="twitter" width="36" height="36"/>   
-➔ **Securing React Apps using Auth0** [@Egghead](https://egghead.io/lessons/egghead-authenticating-react-apps-using-auth0) _(Oct 2020)_
+## Stack
 
-➔ **Beginner Pitfalls: My Personal Journey** [@ByteConf React](https://www.bytesized.xyz/conferences/byteconf-react-2020/) _(May 2020)_
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-117865?style=flat-square&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=flat-square&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-➔ **GatsbyJS Under The Hood: What Makes It Blazing Fast** [@EgyptJS](https://www.meetup.com/EgyptJS/events/269752047/) _(April 2020)_
-
-➔ **Hooked: How To Build Habit Forming Products** [@EgyptJS](https://www.meetup.com/EgyptJS/events/260794616/) _(Aug 2019)_
-
---->
 <br/>
 
-## `Achievements I'm proud of` <img src="https://user-images.githubusercontent.com/27310414/88125586-e0e51600-cbcf-11ea-9202-14cdb679dc05.gif" alt="twitter" width="36" height="36"/>  
+## Writing
 
-➔ **Three Peaks Challange** _(Jul 2016)_ 
+**[The Bridge](https://substack.com/@nathanwlee/p-193471300)** — a five-part series on Substack about the gap between data strategy and delivery. Why strategies don't survive first contact with delivery, the question nobody asks before buying a platform, and why BI teams get measured on everything except whether decisions improved.
 
-Raised over £400 for [**CLIC Sargent**](https://www.clicsargent.org.uk/), climbing up the 3 highest peaks in the UK (Ben Nevis, Scafell Pike & Snowdon), in the space of 24 hours. Some might say like a mad man (sounded a good idea at the time).
+<br/>
+
+## How I got here
+
+- **Avanade** _(2020 – present)_ — joined via Altius as a Power Platform analyst. Consultant, senior consultant, then manager.
+- **MBA, University of Exeter Business School** _(2024 – 2025)_ — sustainable business transformation. Sole recipient of the 2024 Avanade Executive scholarship.
+- **Serco** _(2018 – 2019)_ — sales analyst. Moved the business development reporting off Excel and onto Power BI.
+- **Kent County Council** _(2017 – 2018)_ — analytics intern on adult social care data.
+- **BA Politics and International Relations with Data Analytics, University of Kent** _(2015 – 2018)_
+- **Costa Coffee** _(2015 – 2018)_ — barista. Still the most useful training in stakeholder management I've had.
+
+<br/>
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/nathanwlee1/) · [Substack](#)
+
+<sub>Also climbed the UK's three highest peaks in 24 hours for CLIC Sargent (now Young Lives vs Cancer). It sounded like a good idea at the time.</sub>
